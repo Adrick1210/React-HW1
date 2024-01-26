@@ -1,5 +1,5 @@
 // the component function
-const Footer = (props) => {
+const Footer = () => {
   //The Components Returned JSX
   return <div className="ComponentName"> This is Footer</div>;
 };

@@ -1,7 +1,9 @@
+import Project from "./Project";
+
 // the component function
-const Main = (props) => {
+const Main = () => {
   //The Components Returned JSX
-  return <div className="ComponentName"> This is Main</div>;
+  return <div className="ComponentName"> <Project /></div>;
 };
 
 // export the component

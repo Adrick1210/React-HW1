@@ -28,3 +28,57 @@ code {
   text-decoration: none;
   padding: 12px;
 }
+
+.card {
+  border-radius: 10px;
+  background-color: whitesmoke;
+  opacity: 0.8;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+}
+
+.card h1 {
+  font-size: 1.2rem;
+}
+
+.card button {
+  font-size: 1rem;
+  margin-top: 10px;
+  padding: 8px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  background-color: royalblue;
+}
+
+button a {
+  color: white;
+  text-decoration: none;
+}
+
+.card h3 a{
+  font-size: .8rem;
+  padding: 8px;
+  border-radius: 10px;
+  background-color: royalblue;
+  color: white;
+  text-decoration: none;
+}
+
+ .card-1 img {
+  height: 200px;
+  width: 200px;
+  border-radius: 15px;
+}
+
+.card-2 img {
+  height: 300px;
+  border-radius: 15px;
+}
+

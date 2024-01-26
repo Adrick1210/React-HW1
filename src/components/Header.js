@@ -1,5 +1,5 @@
 // the component function
-const Header = (props) => {
+const Header = () => {
   //The Components Returned JSX
   return (
     <div className="nav">
