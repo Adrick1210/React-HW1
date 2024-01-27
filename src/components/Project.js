@@ -25,6 +25,18 @@ const Project = () => {
           </b>
         </h3>
       </div>
+      <div className="card card-3">
+        <h1>API with Javascript/Jquery</h1>
+        <img src="/images/Api.png" alt="todo" />
+        <button>
+          <a href="https://github.com/Adrick1210/Card-Shop-Proj.git">Repo</a>
+        </button>
+        <h3>
+          <b>
+            <a href="https://adrick1210.github.io/Card-Shop-Proj/">Try It Out!</a>
+          </b>
+        </h3>
+      </div>
     </div>
   );
 };
